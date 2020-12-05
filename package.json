@@ -1,6 +1,6 @@
 {
   "name": "node-kuaidi100",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "node kuaidi100",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,18 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "request": "^2.88.2"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-penguin/node-kuaidi100.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ice-penguin/node-kuaidi100/issues"
+  },
+  "homepage": "https://github.com/ice-penguin/node-kuaidi100#readme"
 }
