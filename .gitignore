@@ -1,0 +1,4 @@
+node_modules
+test/*.pem
+test/test.js
+.DS_Store

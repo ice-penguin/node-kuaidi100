@@ -1,0 +1,19 @@
+{
+  "name": "node-kuaidi100",
+  "version": "1.0.2",
+  "description": "node kuaidi100",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "kuaidi100"
+  ],
+  "author": "hjpenguin",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "request": "^2.88.2"
+  }
+}
